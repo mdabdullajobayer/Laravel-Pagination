@@ -1,3 +1,5 @@
+# Laravel Pagination
+
 ### 1. Basic Pagination
 
 To paginate results from a database query, you can use the `paginate()` method provided by Eloquent.
